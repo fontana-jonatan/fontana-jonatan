@@ -2,7 +2,7 @@
 
 
 <!--
-**bzstyle/bzstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fontana-jonatan/fontana-jonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://user-images.githubusercontent.com/83096491/169357645-c318a8c7-744c-437d-b77d-a96208100d96.png)
 Here are some ideas to get you started:
 
