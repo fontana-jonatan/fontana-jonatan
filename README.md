@@ -1,5 +1,4 @@
-<img width="720" height="405" alt="image (1)" src="https://github.com/user-attachments/assets/a09652b7-6b84-42ad-8f16-55fc6f59718a" />
-
+![image]([https://user-images.githubusercontent.com/83096491/169357645-c318a8c7-744c-437d-b77d-a96208100d96.png](https://github.com/user-attachments/assets/a09652b7-6b84-42ad-8f16-55fc6f59718a))
 <!--
 **fontana-jonatan/fontana-jonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://user-images.githubusercontent.com/83096491/169357645-c318a8c7-744c-437d-b77d-a96208100d96.png)
