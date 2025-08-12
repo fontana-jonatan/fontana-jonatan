@@ -1,6 +1,6 @@
-<img width="720" height="405" alt="image (1)" src="https://github.com/user-attachments/assets/24bf6fc5-55bf-407e-860d-9cd404fd7396" />
-
+<img width="1536" height="1024" alt="picture" src="https://github.com/user-attachments/assets/04124ff2-8df1-4ba4-8adc-9ea54c73e7a2" />
 <!--
+
 **fontana-jonatan/fontana-jonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://user-images.githubusercontent.com/83096491/169357645-c318a8c7-744c-437d-b77d-a96208100d96.png)
 Here are some ideas to get you started:
