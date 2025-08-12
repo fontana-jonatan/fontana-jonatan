@@ -1,5 +1,4 @@
-![planeta-Tierra](https://github.com/bzstyle/bzstyle/assets/83096491/6bb1b7e4-fc56-4fa9-ab6e-9077cb7a88b5)
-
+<img width="720" height="405" alt="image (1)" src="https://github.com/user-attachments/assets/a09652b7-6b84-42ad-8f16-55fc6f59718a" />
 
 <!--
 **fontana-jonatan/fontana-jonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
